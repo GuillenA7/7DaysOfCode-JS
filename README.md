@@ -6,7 +6,7 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 ## 📅 Progress
 
 - **Day 1:** Boolean operations and equality comparisons (`==` vs `===`)
-- **Day 2:** [To be completed]
+- **Day 2:** Variables and user input with `prompt()` and `alert()`
 - **Day 3:** [To be completed]
 - **Day 4:** [To be completed]
 - **Day 5:** [To be completed]
@@ -20,11 +20,19 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 ## 📂 Repository Structure
 
 📦 7DaysOfCode-JS
+
 ┣ 📜 day1.js
+
 ┣ 📜 day2.js
+
 ┣ 📜 day3.js
+
 ┣ 📜 day4.js
+
 ┣ 📜 day5.js
+
 ┣ 📜 day6.js
+
 ┣ 📜 day7.js
+
 ┣ 📜 README.md
