@@ -8,7 +8,7 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 - **Day 1:** Boolean operations and equality comparisons (`==` vs `===`)
 - **Day 2:** Variables and user input with `prompt()` and `alert()`
 - **Day 3:** Control flow structures (`if/else`, `while`) in an interactive game
-- **Day 4:** [To be completed]
+- **Day 4:** Number guessing game with loops and randomization (`Math.random`)
 - **Day 5:** [To be completed]
 - **Day 6:** [To be completed]
 - **Day 7:** [To be completed]
@@ -30,6 +30,8 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 ┣ 📜 day3.html
 
 ┣ 📜 day3.js
+
+┣ 📜 day4.html
 
 ┣ 📜 day4.js
 
