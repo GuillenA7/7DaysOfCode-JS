@@ -1,0 +1,24 @@
+{
+  "name": "7days",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions to the **7 Days of Code** challenge by [Alura](https://7daysofcode.io/).  \r The goal of this challenge is to strengthen programming logic using **JavaScript** with daily tasks.",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillenA7/7DaysOfCode-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillenA7/7DaysOfCode-JS/issues"
+  },
+  "homepage": "https://github.com/GuillenA7/7DaysOfCode-JS#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
