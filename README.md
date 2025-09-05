@@ -10,7 +10,7 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 - **Day 3:** Control flow structures (`if`, `else`, `while`) to create an interactive programming career choice game
 - **Day 4:** Number guessing game with loops and random number generation (`Math.random()`)
 - **Day 5:** Shopping list creator using arrays and categories, with user input and grouped output
-- **Day 6:** [To be completed]
+- **Day 6:** Added the ability to remove specific items from the shopping list, using array methods (`indexOf`, `splice`)
 - **Day 7:** [To be completed]
 
 ## ▶️ How to Run
@@ -30,11 +30,13 @@ node day5.js
 
 ## 🚀 Technologies
 - JavaScript
-- Node.js (optional, just for testing)
+- Node.js
 
 ## 📂 Repository Structure
 
 📦 7DaysOfCode-JS
+
+┣ 📁 node_modules
 
 ┣ 📜 day1.js
 
@@ -49,5 +51,9 @@ node day5.js
 ┣ 📜 day6.js
 
 ┣ 📜 day7.js
+
+┣ 📜 package-lock.json
+
+┣ 📜 package.json
 
 ┣ 📜 README.md
