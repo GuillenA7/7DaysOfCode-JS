@@ -11,7 +11,7 @@ The goal of this challenge is to strengthen programming logic using **JavaScript
 - **Day 4:** Number guessing game with loops and random number generation (`Math.random()`)
 - **Day 5:** Shopping list creator using arrays and categories, with user input and grouped output
 - **Day 6:** Added the ability to remove specific items from the shopping list, using array methods (`indexOf`, `splice`)
-- **Day 7:** [To be completed]
+- **Day 7:** alculator with independent functions for each operation and a menu system using `switch` and loops
 
 ## ▶️ How to Run
 
